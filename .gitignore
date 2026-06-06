@@ -1,6 +1,5 @@
 # Large data files
-application_data.csv
-*.csv
+
 
 # Python
 __pycache__/
